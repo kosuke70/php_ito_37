@@ -9,3 +9,9 @@ MUSTとWANTにそれぞれ重みづけ（配点）をして、回答内容と掛
 
 [inputタグ、textareaタグ、selectタグ](https://www.php-factory.net/trivia/17.php)
 
+[【PHP入門】ラジオボタンの実装方法についてわかりやすく解説！](https://www.sejuku.net/blog/78997)
+
+[PHPでファイル名や拡張子,ディレクトリ名を取得する方法](https://www.flatflag.nir87.com/basename-844)
+
+
+
